@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="600"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component base="strokelongcomb" xOffset="-25" yOffset="199" xScale="1.085"/>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-14 21:28:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

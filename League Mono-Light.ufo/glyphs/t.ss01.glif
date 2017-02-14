@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.ss01" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="319" y="16" type="line"/>
+      <point x="319" y="680" type="line"/>
+      <point x="263" y="680" type="line"/>
+      <point x="263" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="0" type="line"/>
+      <point x="461" y="51" type="line"/>
+      <point x="279" y="51" type="line"/>
+      <point x="279" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="504" y="449" type="line"/>
+      <point x="504" y="500" type="line"/>
+      <point x="127" y="500" type="line"/>
+      <point x="127" y="449" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-14 21:28:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

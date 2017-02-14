@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="600"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="275" y="672" type="line"/>
+      <point x="482" y="331" type="line"/>
+      <point x="536" y="350" type="line"/>
+      <point x="326" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="700" type="line"/>
+      <point x="275" y="655" type="line"/>
+      <point x="326" y="655" type="line"/>
+      <point x="326" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="350" type="line"/>
+      <point x="119" y="331" type="line"/>
+      <point x="326" y="672" type="line"/>
+      <point x="275" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="350" type="line"/>
+      <point x="482" y="369" type="line"/>
+      <point x="275" y="28" type="line"/>
+      <point x="326" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="45" type="line"/>
+      <point x="275" y="45" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="326" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="28" type="line"/>
+      <point x="119" y="369" type="line"/>
+      <point x="65" y="350" type="line"/>
+      <point x="275" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-14 21:28:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

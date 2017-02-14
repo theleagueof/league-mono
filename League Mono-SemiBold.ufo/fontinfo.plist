@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Copyright © 2017 by The League of Moveable Type</string>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>League Mono</string>
+	<key>openTypeHeadCreated</key>
+	<string>2017/02/14 16:19:55</string>
+	<key>openTypeNameDesigner</key>
+	<string>Tyler Finck</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.finck.co</string>
+	<key>openTypeNameManufacturer</key>
+	<string>The League of Moveable Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.theleagueofmoveabletype.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>League Mono</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>SemiBold</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>600</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>LeagueMono-SemiBold</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>League Mono SemiBold</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>SemiBold</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

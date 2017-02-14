@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="600"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="338" y="155" type="line"/>
+      <point x="338" y="680" type="line"/>
+      <point x="218" y="680" type="line"/>
+      <point x="218" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="-11"/>
+      <point x="476" y="-1"/>
+      <point x="484" y="0" type="curve"/>
+      <point x="484" y="98" type="line"/>
+      <point x="476" y="96"/>
+      <point x="426" y="84"/>
+      <point x="391" y="84" type="curve"/>
+      <point x="361" y="84"/>
+      <point x="338" y="92"/>
+      <point x="338" y="155" type="curve"/>
+      <point x="218" y="122" type="line"/>
+      <point x="218" y="15"/>
+      <point x="291" y="-11"/>
+      <point x="369" y="-11" type="curve"/>
+    </contour>
+    <contour>
+      <point x="513" y="400" type="line"/>
+      <point x="513" y="500" type="line"/>
+      <point x="98" y="500" type="line"/>
+      <point x="98" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-14 21:28:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

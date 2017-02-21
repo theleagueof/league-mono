@@ -4,34 +4,34 @@
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="335" y="649" type="line" smooth="yes"/>
-      <point x="400" y="649"/>
-      <point x="481" y="644"/>
-      <point x="481" y="479" type="curve" smooth="yes"/>
-      <point x="481" y="310"/>
-      <point x="400" y="297"/>
-      <point x="335" y="297" type="curve" smooth="yes"/>
-      <point x="176" y="297" type="line"/>
-      <point x="176" y="649" type="line"/>
+      <point x="339" y="649" type="line" smooth="yes"/>
+      <point x="404" y="649"/>
+      <point x="484" y="644"/>
+      <point x="484" y="479" type="curve" smooth="yes"/>
+      <point x="484" y="310"/>
+      <point x="404" y="297"/>
+      <point x="339" y="297" type="curve" smooth="yes"/>
+      <point x="179" y="297" type="line"/>
+      <point x="179" y="649" type="line"/>
     </contour>
     <contour>
-      <point x="406" y="246"/>
-      <point x="538" y="264"/>
-      <point x="538" y="479" type="curve" smooth="yes"/>
-      <point x="538" y="690"/>
-      <point x="406" y="700"/>
-      <point x="322" y="700" type="curve" smooth="yes"/>
-      <point x="119" y="700" type="line"/>
-      <point x="119" y="0" type="line"/>
-      <point x="176" y="0" type="line"/>
-      <point x="176" y="246" type="line"/>
-      <point x="322" y="246" type="line" smooth="yes"/>
+      <point x="410" y="246"/>
+      <point x="542" y="264"/>
+      <point x="542" y="479" type="curve" smooth="yes"/>
+      <point x="542" y="690"/>
+      <point x="410" y="700"/>
+      <point x="326" y="700" type="curve" smooth="yes"/>
+      <point x="123" y="700" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="179" y="246" type="line"/>
+      <point x="326" y="246" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-14 21:28:50 +0000</string>
+      <string>2017-02-21 01:25:40 +0000</string>
     </dict>
   </lib>
 </glyph>

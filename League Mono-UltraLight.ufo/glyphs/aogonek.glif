@@ -5,11 +5,17 @@
   <outline>
     <contour>
       <point x="524" y="0" type="line"/>
-      <point x="546" y="18" type="line"/>
-      <point x="542" y="22" type="line"/>
+      <point x="542" y="12" type="line"/>
+      <point x="533" y="21" type="line"/>
       <point x="491" y="0" type="line"/>
     </contour>
     <component base="a"/>
     <component base="ogonekcomb" xOffset="174"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-21 01:25:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

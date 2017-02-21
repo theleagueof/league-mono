@@ -20,8 +20,8 @@
       <point x="270" y="301" type="curve"/>
     </contour>
     <contour>
-      <point x="459" y="0" type="line"/>
-      <point x="459" y="32" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="32" type="line"/>
       <point x="103" y="32" type="line"/>
       <point x="103" y="0" type="line"/>
     </contour>

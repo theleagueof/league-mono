@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="533" y="0" type="line"/>
-      <point x="579" y="45" type="line"/>
-      <point x="557" y="68" type="line"/>
-      <point x="423" y="-8" type="line"/>
+      <point x="576" y="41" type="line"/>
+      <point x="566" y="52" type="line"/>
+      <point x="439" y="0" type="line"/>
     </contour>
     <component base="a"/>
     <component base="ogonekcomb" xOffset="162"/>
@@ -15,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-14 21:28:51 +0000</string>
+      <string>2017-02-21 01:25:41 +0000</string>
     </dict>
   </lib>
 </glyph>

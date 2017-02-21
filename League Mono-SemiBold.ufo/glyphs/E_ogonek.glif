@@ -4,6 +4,12 @@
   <unicode hex="0118"/>
   <outline>
     <component base="E"/>
-    <component base="ogonekcomb" xOffset="158"/>
+    <component base="ogonekcomb" xOffset="155"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-21 01:25:41 +0000</string>
+    </dict>
+  </lib>
 </glyph>

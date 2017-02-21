@@ -7,7 +7,9 @@ DisplayStrings = (
 "/quotedblleft Quotable/quotedblright  /quoteleft LIKELY/quoteright  APOSTROPHE'S \012APOSTROPHE/quoteright S\012WE/quoteright VE WE'VE\012THEY'RE THEY/quoteright RE\012\012BULA VATER WASSER\012YAKUZA FABEL PAPST\012UN\U00D0E H/Dcroat \012letter//punctuation\012Ich rufe: also komm; danke\012Somit: haben wir; hinauf: das\012Er will? Ich soll! Er kann\012hinauf! herauf? Su? Ka!\012\U00BFSpanisch? \U00A1Nat\U00FCrlich!\012was?! wie!? was!! wie??\012Wer kann, kann. Wer, der.\012Sauf, rauf. Su, Ka. Sag, sag.\012\012#VBMNZCXNASGHJFWIQUEYTJKQWVFBNSVBNMVXZJHKSGAOIWQTOUYWRTQUPTFYUSFGAHASLQPWRTOUWYQTLIKJHDSFBVNCVNBMCXCVXGHDHKJHAFSUDRQOWPTEUQIWRUOEWYFRGASFVBNACVBXBVCDMNXKJSHGDALKJFUWQYIRETEIROUWYQKFWGHCVMZNVBCZSHJAGDOQWURYWQOTROIUSYFKASJDHGASKJHGCVXMZBVNXCBSAFGDHJSKGQUYIEWRUYWQOTRIPUWOYTRUKJHFVSABNVMBNCX\012",
 "USA//Kanada SWF//Abend\012Gau\U00DF//Ohm 41//56 den//die\012auf//fall den//im den//\U00E4rger\012da//leider auf//aber I//I\012etwa 50% haben 37\U00B0 im\012\U00A350 und \U00A520 sind $30 und /euro 60\012den \U00A7235 sowie #35 \0124mal Seite 3f und 12.\012Der \U00A745a in den 20ern\012813205891723645601",
 "0123456789\0120123456789",
-"A Zen master named Gisan asked a young student to bring him a pail of water to cool his bath.\012\012The student brought the water and, after cooling the bath, threw on to the ground the little that was left over.\012\012\"You dunce!\" the master scolded him. \"Why didn't you give the rest of the water to the plants? What right have you to waste even a drop of water in this temple?\"\012\012The young student attained Zen in that instant. He changed his name to Tekisui, which means a drop of water. "
+"A Zen master named Gisan asked a young student to bring him a pail of water to cool his bath.\012\012The student brought the water and, after cooling the bath, threw on to the ground the little that was left over.\012\012\"You dunce!\" the master scolded him. \"Why didn't you give the rest of the water to the plants? What right have you to waste even a drop of water in this temple?\"\012\012The young student attained Zen in that instant. He changed his name to Tekisui, which means a drop of water. ",
+"the league of moveable type\012presents League Mono, a new console face for weird moments, like this. ",
+"ALLISON USAVAGE\012allison usavage\012TYLER FINCK\012tyler finck\012ITHACA, NEW YORK\012ithaca, new york\012\012A Moon Shaped Pool"
 );
 copyright = "Copyright © 2017 by The League of Moveable Type";
 date = "2017-02-14 21:19:55 +0000";
@@ -3557,7 +3559,7 @@ unicode = 0136;
 },
 {
 glyphname = L;
-lastChange = "2017-02-10 00:52:03 +0000";
+lastChange = "2017-02-17 17:13:30 +0000";
 layers = (
 {
 layerId = "558B6FE6-F456-45D2-AA56-B37F51D1E4E1";
@@ -3565,19 +3567,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"226 0 LINE",
-"226 700 LINE",
-"133 700 LINE",
-"133 0 LINE"
+"236 0 LINE",
+"236 700 LINE",
+"143 700 LINE",
+"143 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"195 0 LINE",
-"547 0 LINE",
-"547 82 LINE",
-"195 82 LINE"
+"205 0 LINE",
+"557 0 LINE",
+"557 82 LINE",
+"205 82 LINE"
 );
 }
 );
@@ -3613,19 +3615,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"186 0 LINE",
-"186 700 LINE",
-"153 700 LINE",
-"153 0 LINE"
+"206 0 LINE",
+"206 700 LINE",
+"173 700 LINE",
+"173 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"185 0 LINE",
-"527 0 LINE",
-"527 32 LINE",
-"185 32 LINE"
+"205 0 LINE",
+"547 0 LINE",
+"547 32 LINE",
+"205 32 LINE"
 );
 }
 );
@@ -5174,7 +5176,7 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2017-02-08 18:10:31 +0000";
+lastChange = "2017-02-17 17:13:36 +0000";
 layers = (
 {
 layerId = "558B6FE6-F456-45D2-AA56-B37F51D1E4E1";
@@ -5182,31 +5184,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"335 618 LINE SMOOTH",
-"400 618 OFFCURVE",
-"456 613 OFFCURVE",
-"456 479 CURVE SMOOTH",
-"456 335 OFFCURVE",
-"400 322 OFFCURVE",
-"335 322 CURVE SMOOTH",
-"194 322 LINE",
-"194 618 LINE"
+"345 618 LINE SMOOTH",
+"410 618 OFFCURVE",
+"466 613 OFFCURVE",
+"466 479 CURVE SMOOTH",
+"466 335 OFFCURVE",
+"410 322 OFFCURVE",
+"345 322 CURVE SMOOTH",
+"204 322 LINE",
+"204 618 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"406 240 OFFCURVE",
-"550 258 OFFCURVE",
-"550 479 CURVE SMOOTH",
-"550 690 OFFCURVE",
-"406 700 OFFCURVE",
-"322 700 CURVE SMOOTH",
-"101 700 LINE",
-"101 0 LINE",
-"194 0 LINE",
-"194 240 LINE",
-"322 240 LINE SMOOTH"
+"416 240 OFFCURVE",
+"560 258 OFFCURVE",
+"560 479 CURVE SMOOTH",
+"560 690 OFFCURVE",
+"416 700 OFFCURVE",
+"332 700 CURVE SMOOTH",
+"111 700 LINE",
+"111 0 LINE",
+"204 0 LINE",
+"204 240 LINE",
+"332 240 LINE SMOOTH"
 );
 }
 );
@@ -5218,31 +5220,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"295 578 LINE SMOOTH",
-"360 578 OFFCURVE",
-"396 563 OFFCURVE",
-"396 469 CURVE SMOOTH",
-"396 365 OFFCURVE",
-"360 352 OFFCURVE",
-"295 352 CURVE SMOOTH",
-"244 352 LINE",
-"244 578 LINE"
+"305 578 LINE SMOOTH",
+"370 578 OFFCURVE",
+"406 563 OFFCURVE",
+"406 469 CURVE SMOOTH",
+"406 365 OFFCURVE",
+"370 352 OFFCURVE",
+"305 352 CURVE SMOOTH",
+"254 352 LINE",
+"254 578 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"406 230 OFFCURVE",
-"551 248 OFFCURVE",
-"551 479 CURVE SMOOTH",
-"551 690 OFFCURVE",
-"406 700 OFFCURVE",
-"322 700 CURVE SMOOTH",
-"91 700 LINE",
-"91 0 LINE",
-"244 0 LINE",
-"244 230 LINE",
-"322 230 LINE SMOOTH"
+"416 230 OFFCURVE",
+"561 248 OFFCURVE",
+"561 479 CURVE SMOOTH",
+"561 690 OFFCURVE",
+"416 700 OFFCURVE",
+"332 700 CURVE SMOOTH",
+"101 700 LINE",
+"101 0 LINE",
+"254 0 LINE",
+"254 230 LINE",
+"332 230 LINE SMOOTH"
 );
 }
 );
@@ -5733,7 +5735,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = R;
-lastChange = "2017-02-12 21:54:25 +0000";
+lastChange = "2017-02-17 17:14:29 +0000";
 layers = (
 {
 layerId = "558B6FE6-F456-45D2-AA56-B37F51D1E4E1";
@@ -5817,8 +5819,8 @@ nodes = (
 closed = 1;
 nodes = (
 "556 0 LINE",
-"406 313 LINE",
-"251 313 LINE",
+"426 313 LINE",
+"271 313 LINE",
 "392 0 LINE"
 );
 }

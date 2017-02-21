@@ -9,7 +9,8 @@ DisplayStrings = (
 "0123456789\0120123456789",
 "A Zen master named Gisan asked a young student to bring him a pail of water to cool his bath.\012\012The student brought the water and, after cooling the bath, threw on to the ground the little that was left over.\012\012\"You dunce!\" the master scolded him. \"Why didn't you give the rest of the water to the plants? What right have you to waste even a drop of water in this temple?\"\012\012The young student attained Zen in that instant. He changed his name to Tekisui, which means a drop of water. ",
 "the league of moveable type\012presents League Mono, a new console face for weird moments, like this. ",
-"ALLISON USAVAGE\012allison usavage\012TYLER FINCK\012tyler finck\012ITHACA, NEW YORK\012ithaca, new york\012\012A Moon Shaped Pool"
+"ALLISON USAVAGE\012allison usavage\012TYLER FINCK\012tyler finck\012ITHACA, NEW YORK\012ithaca, new york\012\012A Moon Shaped Pool",
+"A\U00C1/Abreve/Acaron \U00C2\U00C4\U00C0/Amacron/Aogonek \U00C5\U00C3\U00C6BC/Cacute/Ccaron \U00C7/Cdotaccent D\U00D0/Dcaron/Dcroat E\U00C9/Ecaron \U00CA\U00CB/Edotaccent \U00C8/Emacron/Eogonek FG/G.ss01/Gbreve/Gcommaaccent/Gdotaccent H/Hbar I\U00CD/Icaron \U00CE\U00CF/Idotaccent \U00CC/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lcommaaccent/Lslash MN/Nacute/Ncaron/Ncommaaccent/Eng \U00D1O\U00D3/Ocaron \U00D4\U00D6\U00D2/Ohungarumlaut/Omacron \U00D8\U00D5/OE P\U00DEQ/Q.ss01 R/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scommaaccent T/Tbar/Tcaron/Tcedilla/Tcommaaccent U\U00DA/Ucaron \U00DB\U00DC/Udieresisacute/Udieresiscaron/Udieresisgrave/Udieresismacron \U00D9/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave X/X.ss01 Y\U00DD/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent a/a.ss01 \U00E1/abreve/acaron \U00E2\U00E4\U00E0/amacron/aogonek \U00E5\U00E3\U00E6bc/cacute/ccaron \U00E7/cdotaccent d\U00F0/dcaron/dcroat e\U00E9/ecaron \U00EA\U00EB/edotaccent \U00E8/emacron/eogonek fg/g.ss01/gbreve/gcommaaccent/gdotaccent h/hbar i/i.ss01/idotless \U00ED/icaron \U00EE\U00EF/idotaccent \U00EC/imacron/iogonek jk/kcommaaccent l/l.ss01/lacute/lcaron/lcommaaccent/lslash mn/nacute/ncaron/ncommaaccent/eng \U00F1o\U00F3/ocaron \U00F4\U00F6\U00F2/ohungarumlaut/omacron \U00F8\U00F5/oe p\U00FEqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent \U00DFt/t.ss01/tbar/tcaron/tcedilla/tcommaaccent u\U00FA/ucaron \U00FB\U00FC/udieresisacute/udieresiscaron/udieresisgrave/udieresismacron \U00F9/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave x/x.ss01 y\U00FD/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent 0123456789*/backslash \U00B7/bullet :,/ellipsis !\U00A1#.?\U00BF\"';//_{}[]()/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase  \U00A2\U00A4$/euro \U00A3\U00A5+/minus \U00D7\U00F7=/notequal ></greaterequal/lessequal/infinity %/lozenge @&\U00B6\U00A7\U00A9\U00AE/trademark \U00B0|\U00A6/dagger/daggerdbl ^/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/strokelongcomb/slashshortcomb/slashlongcomb \U00B4/breve/caron \U00B8/circumflex \U00A8/dotaccent `/hungarumlaut \U00AF/ogonek/ring/tilde"
 );
 copyright = "Copyright © 2017 by The League of Moveable Type";
 date = "2017-02-14 21:19:55 +0000";
@@ -2031,7 +2032,7 @@ unicode = 0112;
 },
 {
 glyphname = Eogonek;
-lastChange = "2017-02-12 19:47:17 +0000";
+lastChange = "2017-02-21 01:20:59 +0000";
 layers = (
 {
 components = (
@@ -2053,7 +2054,7 @@ name = E;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 158, 0}";
+transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
 layerId = "5521DC30-183F-421A-91F3-644B5E24AFE6";
@@ -9528,7 +9529,7 @@ unicode = 0101;
 },
 {
 glyphname = aogonek;
-lastChange = "2017-02-12 19:52:18 +0000";
+lastChange = "2017-02-21 01:20:17 +0000";
 layers = (
 {
 components = (
@@ -9546,9 +9547,9 @@ paths = (
 closed = 1;
 nodes = (
 "529 0 LINE",
-"570 37 LINE",
-"543 64 LINE",
-"433 -14 LINE"
+"564 33 LINE",
+"555 42 LINE",
+"461 0 LINE"
 );
 }
 );
@@ -9570,8 +9571,8 @@ paths = (
 closed = 1;
 nodes = (
 "539 0 LINE",
-"591 56 LINE",
-"575 72 LINE",
+"592 51 LINE",
+"579 64 LINE",
 "411 0 LINE"
 );
 }
@@ -9594,8 +9595,8 @@ paths = (
 closed = 1;
 nodes = (
 "524 0 LINE",
-"546 18 LINE",
-"542 22 LINE",
+"542 12 LINE",
+"533 21 LINE",
 "491 0 LINE"
 );
 }
@@ -15944,7 +15945,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2017-02-12 20:09:25 +0000";
+lastChange = "2017-02-21 01:21:44 +0000";
 layers = (
 {
 layerId = "558B6FE6-F456-45D2-AA56-B37F51D1E4E1";
@@ -15971,8 +15972,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"459 0 LINE",
-"459 82 LINE",
+"494 0 LINE",
+"494 82 LINE",
 "103 82 LINE",
 "103 0 LINE"
 );
@@ -16025,8 +16026,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"459 0 LINE",
-"459 122 LINE",
+"499 0 LINE",
+"499 122 LINE",
 "103 122 LINE",
 "103 0 LINE"
 );
@@ -16079,8 +16080,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"459 0 LINE",
-"459 32 LINE",
+"489 0 LINE",
+"489 32 LINE",
 "103 32 LINE",
 "103 0 LINE"
 );

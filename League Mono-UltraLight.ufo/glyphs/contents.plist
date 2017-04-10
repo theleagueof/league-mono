@@ -368,6 +368,8 @@
 	<string>dotaccent.glif</string>
 	<key>dotaccentcomb</key>
 	<string>dotaccentcomb.glif</string>
+	<key>downArrow</key>
+	<string>downA_rrow.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eacute</key>
@@ -490,6 +492,10 @@
 	<string>lcaron.glif</string>
 	<key>lcommaaccent</key>
 	<string>lcommaaccent.glif</string>
+	<key>leftArrow</key>
+	<string>leftA_rrow.glif</string>
+	<key>leftRightArrow</key>
+	<string>leftR_ightA_rrow.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>lessequal</key>
@@ -518,6 +524,10 @@
 	<string>ncommaaccent.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>northEastArrow</key>
+	<string>northE_astA_rrow.glif</string>
+	<key>northWestArrow</key>
+	<string>northW_estA_rrow.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>ntilde</key>
@@ -600,6 +610,8 @@
 	<string>rcommaaccent.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
+	<key>rightArrow</key>
+	<string>rightA_rrow.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
 	<key>ringcomb</key>
@@ -628,6 +640,10 @@
 	<string>slashlongcomb.glif</string>
 	<key>slashshortcomb</key>
 	<string>slashshortcomb.glif</string>
+	<key>southEastArrow</key>
+	<string>southE_astA_rrow.glif</string>
+	<key>southWestArrow</key>
+	<string>southW_estA_rrow.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>sterling</key>
@@ -688,6 +704,10 @@
 	<string>underscore.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
+	<key>upArrow</key>
+	<string>upA_rrow.glif</string>
+	<key>upDownArrow</key>
+	<string>upD_ownA_rrow.glif</string>
 	<key>uring</key>
 	<string>uring.glif</string>
 	<key>v</key>

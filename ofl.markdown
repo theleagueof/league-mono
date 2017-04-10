@@ -1,4 +1,4 @@
-	Copyright (c) September 22 2014, Micah Rich micah@micahrich.com, with Reserved Font Name: "League Spartan".
+	Copyright (c) April 10, 2017, Tyler Finck hi@tylerfinck.com, with Reserved Font Name: “League Mono“.
 
 	This Font Software is licensed under the SIL Open Font License, Version 1.1.
 	This license is copied below, and is also available with a FAQ at:

@@ -32,11 +32,29 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-12</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>513</integer>
+		<integer>700</integer>
+		<integer>707</integer>
+		<integer>800</integer>
+		<integer>808</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>LeagueMono-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
+		<integer>-216</integer>
+		<integer>-200</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>82</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>90</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>

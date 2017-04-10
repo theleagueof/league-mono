@@ -5,7 +5,7 @@
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>21FE00CA-A90E-43B9-AEC7-FE1AC641FEAD</string>
+	<string>920951D2-7A72-49DF-91D5-4A3B84671031</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
@@ -333,6 +333,16 @@
 		<string>lessequal</string>
 		<string>infinity</string>
 		<string>percent</string>
+		<string>upArrow</string>
+		<string>northEastArrow</string>
+		<string>rightArrow</string>
+		<string>southEastArrow</string>
+		<string>downArrow</string>
+		<string>southWestArrow</string>
+		<string>leftArrow</string>
+		<string>northWestArrow</string>
+		<string>leftRightArrow</string>
+		<string>upDownArrow</string>
 		<string>lozenge</string>
 		<string>at</string>
 		<string>ampersand</string>

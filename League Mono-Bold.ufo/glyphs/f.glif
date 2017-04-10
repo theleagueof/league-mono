@@ -18,9 +18,9 @@
     <contour>
       <point x="563" y="785" type="line"/>
       <point x="536" y="795"/>
-      <point x="503" y="807"/>
+      <point x="513" y="807"/>
       <point x="442" y="807" type="curve"/>
-      <point x="296" y="807"/>
+      <point x="306" y="807"/>
       <point x="211" y="744"/>
       <point x="211" y="606" type="curve"/>
       <point x="364" y="566" type="line"/>

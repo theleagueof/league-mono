@@ -32,11 +32,29 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-12</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>513</integer>
+		<integer>700</integer>
+		<integer>707</integer>
+		<integer>800</integer>
+		<integer>808</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>LeagueMono-SemiBold</string>
 	<key>postscriptOtherBlues</key>
 	<array>
+		<integer>-210</integer>
+		<integer>-200</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>100</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>118</integer>
 	</array>
 	<key>styleMapFamilyName</key>
 	<string>League Mono SemiBold</string>

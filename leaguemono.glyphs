@@ -30770,7 +30770,7 @@ instances = (
 customParameters = (
 {
 name = weightClass;
-value = "250";
+value = "200";
 }
 );
 interpolationCustom = 1;

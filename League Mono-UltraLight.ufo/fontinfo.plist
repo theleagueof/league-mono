@@ -27,7 +27,7 @@
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>UltraLight</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>250</integer>
+	<integer>200</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>

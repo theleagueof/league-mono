@@ -1,0 +1,482 @@
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video, :focus {
+ margin:0;
+ padding:0;
+ border:0;
+ outline:0;
+ font-size:100%;
+ vertical-align:baseline;
+ background:transparent;
+}
+
+
+body {
+    
+    font-family: "League Mono Light", Courier, monospace;
+    background: #4fedff; /*sky blue*/
+    color: #001a4f; /*dark blue purp whatevs I'm color blind*/
+    font-size: 18px;
+}
+
+
+@font-face {
+    font-family: "League Mono UltraLight";
+    src: url('LeagueMono-UltraLight.woff2') format('woff2'),
+        url('LeagueMono-UltraLight.woff') format('woff')
+        ;
+}
+
+@font-face {
+    font-family: "League Mono Light";
+    src: url('LeagueMono-Light.woff2') format('woff2'),
+         url('LeagueMono-Light.woff') format('woff')
+        ;
+}
+
+@font-face {
+    font-family: "League Mono Regular";
+    src: url('LeagueMono-Regular.woff2') format('woff2'),
+         url('LeagueMono-Regular.woff') format('woff')
+        ;
+}
+
+@font-face {
+    font-family: "League Mono SemiBold";
+    src: url('LeagueMono-SemiBold.woff2') format('woff2'),
+        url('LeagueMono-SemiBold.woff') format('woff')
+        ;
+    
+}
+
+@font-face {
+    font-family: "League Mono Bold";
+    src: url('LeagueMono-Bold.woff2') format('woff2'),
+        url('LeagueMono-Bold.woff') format('woff')
+        ;
+    
+}
+
+
+.ultralight {
+        font-family: "League Mono UltraLight";
+}
+
+.light {
+        font-family: "League Mono Light";
+}
+
+.regular {
+        font-family: "League Mono Regular";
+}
+
+.semibold {
+    font-family: "League Mono SemiBold";
+}
+
+.bold {
+    font-family: "League Mono Bold";
+
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    line-height: 1;
+}
+
+body {
+box-shadow: inset 10px 10px #001a4f, inset -10px -10px #001a4f;
+width: 100vw;
+height: 100vh;
+display: block;
+}
+
+div {
+box-shadow: inset 3px 3px #001a4f, inset -3px -3px #001a4f;
+}
+
+
+
+#title {
+position: absolute;
+    top: 0;
+    left: 0;
+    width: 40vw;
+    height: 10vh;
+    background: #001a4f;
+    color: #4fedff;
+    text-align: center;
+    vertical-align: center;
+    display: inline-block;
+    font-size: 5vw;
+    line-height: 1;
+    padding: 20vh 0;
+}
+
+#description {
+    position: absolute;
+    top: 49vh;
+    width: 40vw;
+    text-align: center;
+    font-size: 1vw;
+    padding: 8.45vh 0;
+    height: 1vh;
+    line-height: 1;
+    animation: capswitch 3s infinite;
+    
+}
+
+#glyphs {
+position: absolute;
+left: 40vw;
+height: 100vh;
+width: 24vw;
+word-wrap: break-word;
+    letter-spacing: 1vw;
+    line-height: 1.85;
+    overflow: hidden;
+    text-align: center;
+font-size: 2vw;
+}
+
+#glyphs section {
+    overflow-y: scroll;
+    display: block;
+    height: 90vh;
+    width: 90%;
+    padding: 5vh 4vw 5vh 2vw;
+
+}
+
+
+#turkish {
+position: absolute;
+left: 64vw;
+width: 28vw;
+padding: 10vh 4vw;
+    height: 20vh;
+}
+
+#turkish h2, #turkish small {
+display: block;
+}
+
+#turkish .bold {
+font-size: 2vw;
+    margin-bottom: 8vh;
+    line-height: 4vh;
+}
+
+
+#turkish small.regular {
+font-size: 1vw;
+display: block;
+line-height: 3vh;
+}
+
+#numbers {
+position: absolute;
+    left: 64vw;
+    top: 40vh;
+    padding: 5vh .25vw 5vh 3.75vw;
+    width: 32vw;
+    text-align: center;
+    font-size: 3vw;
+    letter-spacing: 3.4vw;
+    height: 15vh;
+    animation: reweight 5s infinite;
+    line-height: 8vh;
+}
+
+#disco {
+position: absolute;
+    top: 65vh;
+    width: 32vw;
+    padding: 3vh 2vw 3vh;
+    left: 64vw;
+    font-size: 1vw;
+    text-align: center;
+    animation: capswitch 2s infinite;
+    height: 6vh;
+}
+
+div a {
+text-decoration: none;
+color: #fff;}
+
+
+#madeby {
+    position: absolute;
+    left: 64vw;
+    top: 77vh;
+    padding: 7vh 4vw 7.75vh;
+    height: 7vh;
+    width: 10vw;
+    font-size: 1.5vw;
+}
+
+#getit {
+    box-shadow: inset 3px 3px #001a4f, inset -3px -3px #001a4f;
+    display: block;
+    position: absolute;
+    background: #fff;
+    color: #001a4f;
+    text-decoration: none;
+    top: 77vh;
+    padding: 8.5vh 5vw;
+    left: 82vw;
+    width: 7.5vw;
+    line-height: 5vh;
+    font-size: 2vw;
+    z-index: 5;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+#getit:hover {
+    background: #001a4f;
+    color: #fff;
+}
+
+@keyframes capswitch {
+  0% {
+      text-transform: inherit;
+    }
+  100% {
+      text-transform: uppercase;
+  }
+}
+
+@keyframes reweight {
+  0% {
+    font-family: "League Mono UltraLight";
+  }
+  20% {
+    font-family: "League Mono Light";
+  }
+  40% {
+    font-family: "League Mono Regular";
+  }
+  60% {
+    font-family: "League Mono SemiBold";
+  }
+  100% {
+    font-family: "League Mono Bold";
+
+  }
+}
+
+/*input#testme {
+    position: absolute;
+    display: block;
+    border-radius: 0px;
+    border: 0px;
+    background: none;
+    top: 58vh;
+    width: 36vw;
+    padding: 4vh 2vw;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: "League Mono Bold";
+    line-height: 1;
+    height: 4vh;
+}*/
+
+#testerbox {
+    position: absolute;
+    display: block;
+    border-radius: 0px;
+    border: 0px;
+    background: none;
+    top: 66vh;
+    width: 36vw;
+    padding: 11vh 2vw 8vh;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: "League Mono Bold";
+    line-height: 1;
+    height: 14vh;
+}
+
+#testerbox input {
+    border: 0px;
+    margin: 0px auto 3vh;
+    padding: 0px;
+    background: none;
+    box-shadow: 0px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-size: 2vw;
+    
+}
+
+#typeswitch li {
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+
+}
+
+#typeswitch li a {
+    display: block;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+    text-transform: uppercase;
+  
+}
+
+#typeswitch li a.selected {
+    background: #001a4f;
+    color: #4fedff;
+}
+
+
+#typeswitch li a.selected::after {
+    content: "\25B2";
+    color: #001a4f;
+    position: absolute;
+    top: -8px;
+    left: 50%;
+    margin-left: -5px;
+}
+
+::placeholder {
+    color: rgba(0,26,79,1.0);
+}
+#disco a {
+    display: inline-block;
+    width: 6vh;
+    height: 6vh;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+    text-indent: -10000vw;
+    cursor: pointer;
+    margin: 0 3vw;
+    border-radius: 6vh;
+
+}
+#twit {
+    background-image: url("twitter.svg");
+}
+
+#git {
+    background-image: url("github.svg");
+}
+
+#disco #league {
+    background-image: url("leaguelogo.svg");
+    background-position: 49% 60%;
+    background-size: 89%;
+}
+
+#disco a:hover {
+    background-color: #001A4F;
+
+}
+
+/*---responsiveness----- 
+-----------v------------
+-----------v------------
+-----------v------------
+-----------v------------
+-----------v------------
+-----------v------------
+-----------v------------
+-----------v------------
+-----------v------------
+-----------v------------
+-----------v----------*/
+
+@media only screen and (max-width:1023px) {
+    
+    
+    body {
+        height: auto;
+        width:auto;
+        overflow-x: hidden;
+    }
+    
+    #title, #description, #glyphs, #numbers, #turkish, #disco, #madeby, #getit, #glyphs section, #testerbox{
+        position: static;
+        width: 80vw;
+        padding: 5vw 10vw;
+        height: auto;
+        font-size: 20px;
+        line-height: 1.5;
+        margin: 0 auto;
+        text-align: center;
+        overflow-y: auto;
+        display: block;
+    }
+    
+    #glyphs section {
+        padding: 0;
+        font-size: 14px;
+    }
+    
+    #description,  #turkish small.regular {
+        font-size: 12px;
+    }
+    
+    #testerbox {
+        padding: 5vw;
+        width: 90vw;
+    
+    }
+    
+    #typeswitch li a {
+        font-size: 10px;
+    }
+    
+    #testerbox input  {
+font-size: 16px;}
+    
+    
+    #title {
+     padding: 10vw;   
+    }
+    
+    #title, #numbers {
+        font-size: 10vw;
+    }
+    
+    #numbers {
+}
+    
+    #turkish .bold {
+font-size: 20px;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+}
+    
+    #madeby {
+border-bottom: 2px solid #001a4f;}
+   
+  
+    
+    #getit {
+        width: 78vw;
+        border-bottom: 5px solid #001a4f;
+    }
+    
+}

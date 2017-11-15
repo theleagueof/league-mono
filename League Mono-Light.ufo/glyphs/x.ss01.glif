@@ -3,34 +3,34 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="278" y="265" type="line"/>
-      <point x="84" y="0" type="line"/>
-      <point x="155" y="0" type="line"/>
-      <point x="319" y="237" type="line"/>
+      <point x="270" y="265" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="327" y="237" type="line"/>
     </contour>
     <contour>
-      <point x="319" y="237" type="line"/>
-      <point x="519" y="500" type="line"/>
-      <point x="449" y="500" type="line"/>
-      <point x="278" y="265" type="line"/>
+      <point x="327" y="237" type="line"/>
+      <point x="531" y="500" type="line"/>
+      <point x="442" y="500" type="line"/>
+      <point x="270" y="265" type="line"/>
     </contour>
     <contour>
-      <point x="444" y="0" type="line"/>
-      <point x="514" y="0" type="line"/>
-      <point x="320" y="265" type="line"/>
-      <point x="279" y="237" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="328" y="265" type="line"/>
+      <point x="271" y="237" type="line"/>
     </contour>
     <contour>
-      <point x="155" y="500" type="line"/>
-      <point x="84" y="500" type="line"/>
-      <point x="279" y="237" type="line"/>
-      <point x="320" y="265" type="line"/>
+      <point x="162" y="500" type="line"/>
+      <point x="72" y="500" type="line"/>
+      <point x="271" y="237" type="line"/>
+      <point x="328" y="265" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:25:24 +0000</string>
+      <string>2017-11-15 01:55:54 +0000</string>
     </dict>
   </lib>
 </glyph>

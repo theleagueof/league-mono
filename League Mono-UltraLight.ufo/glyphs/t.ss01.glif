@@ -3,22 +3,28 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="303" y="26" type="line"/>
-      <point x="303" y="680" type="line"/>
-      <point x="270" y="680" type="line"/>
-      <point x="270" y="16" type="line"/>
+      <point x="316" y="18" type="line"/>
+      <point x="316" y="680" type="line"/>
+      <point x="265" y="680" type="line"/>
+      <point x="265" y="11" type="line"/>
     </contour>
     <contour>
-      <point x="457" y="0" type="line"/>
-      <point x="457" y="32" type="line"/>
-      <point x="270" y="32" type="line"/>
-      <point x="270" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="47" type="line"/>
+      <point x="277" y="47" type="line"/>
+      <point x="277" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="502" y="468" type="line"/>
-      <point x="502" y="500" type="line"/>
-      <point x="130" y="500" type="line"/>
-      <point x="130" y="468" type="line"/>
+      <point x="503" y="453" type="line"/>
+      <point x="503" y="500" type="line"/>
+      <point x="128" y="500" type="line"/>
+      <point x="128" y="453" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

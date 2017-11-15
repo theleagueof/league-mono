@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="600"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period" xOffset="-127" yOffset="-2" xScale="0.806" yScale="0.806"/>
+    <component base="period" xOffset="250" yOffset="-2" xScale="0.806" yScale="0.806"/>
+    <component base="period" xOffset="64" yOffset="-2" xScale="0.806" yScale="0.806"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

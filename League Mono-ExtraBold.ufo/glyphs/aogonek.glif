@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek" format="1">
+  <advance width="600"/>
+  <unicode hex="0105"/>
+  <outline>
+    <contour>
+      <point x="543" y="0" type="line"/>
+      <point x="604" y="59" type="line"/>
+      <point x="589" y="73" type="line"/>
+      <point x="390" y="0" type="line"/>
+    </contour>
+    <component base="a"/>
+    <component base="ogonekcomb" xOffset="148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

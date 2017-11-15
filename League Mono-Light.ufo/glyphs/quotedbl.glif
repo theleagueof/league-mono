@@ -3,13 +3,13 @@
   <advance width="600"/>
   <unicode hex="0022"/>
   <outline>
-    <component base="quotesingle" xOffset="-84"/>
-    <component base="quotesingle" xOffset="83"/>
+    <component base="quotesingle" xOffset="-86"/>
+    <component base="quotesingle" xOffset="88"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:25:24 +0000</string>
+      <string>2017-11-15 01:55:54 +0000</string>
     </dict>
   </lib>
 </glyph>

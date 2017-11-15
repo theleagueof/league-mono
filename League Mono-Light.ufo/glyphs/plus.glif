@@ -4,22 +4,22 @@
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="115" y="278" type="line"/>
-      <point x="490" y="278" type="line"/>
-      <point x="490" y="330" type="line"/>
-      <point x="115" y="330" type="line"/>
+      <point x="113" y="272" type="line"/>
+      <point x="492" y="272" type="line"/>
+      <point x="492" y="336" type="line"/>
+      <point x="113" y="336" type="line"/>
     </contour>
     <contour>
-      <point x="329" y="116" type="line"/>
-      <point x="329" y="491" type="line"/>
-      <point x="277" y="491" type="line"/>
-      <point x="277" y="116" type="line"/>
+      <point x="335" y="114" type="line"/>
+      <point x="335" y="493" type="line"/>
+      <point x="271" y="493" type="line"/>
+      <point x="271" y="114" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:25:24 +0000</string>
+      <string>2017-11-15 01:55:54 +0000</string>
     </dict>
   </lib>
 </glyph>

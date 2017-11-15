@@ -3,7 +3,13 @@
   <advance width="600"/>
   <unicode hex="0126"/>
   <outline>
-    <component base="strokelongcomb" yOffset="199"/>
+    <component base="strokelongcomb" xOffset="-20" yOffset="199" xScale="1.066"/>
     <component base="H"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

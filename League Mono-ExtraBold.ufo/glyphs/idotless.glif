@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+  <advance width="600"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="108" y="361" type="line"/>
+      <point x="237" y="361" type="line"/>
+      <point x="237" y="500" type="line"/>
+      <point x="108" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="56" type="line"/>
+      <point x="411" y="500" type="line"/>
+      <point x="232" y="500" type="line"/>
+      <point x="232" y="31" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="525" y="139" type="line"/>
+      <point x="232" y="139" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

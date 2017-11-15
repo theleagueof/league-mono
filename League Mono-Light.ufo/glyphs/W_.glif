@@ -4,40 +4,40 @@
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="479" y="0" type="line"/>
-      <point x="562" y="700" type="line"/>
-      <point x="505" y="700" type="line"/>
-      <point x="441" y="101" type="line"/>
-      <point x="436" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="571" y="700" type="line"/>
+      <point x="499" y="700" type="line"/>
+      <point x="441" y="137" type="line"/>
+      <point x="434" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="170" y="0" type="line"/>
-      <point x="164" y="101" type="line"/>
-      <point x="101" y="700" type="line"/>
-      <point x="44" y="700" type="line"/>
-      <point x="127" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="165" y="137" type="line"/>
+      <point x="107" y="700" type="line"/>
+      <point x="35" y="700" type="line"/>
+      <point x="119" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="196" y="0" type="line"/>
-      <point x="300" y="546" type="line"/>
-      <point x="311" y="654" type="line"/>
-      <point x="271" y="654" type="line"/>
-      <point x="167" y="113" type="line"/>
-      <point x="156" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="300" y="504" type="line"/>
+      <point x="311" y="649" type="line"/>
+      <point x="264" y="649" type="line"/>
+      <point x="169" y="143" type="line"/>
+      <point x="157" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="450" y="0" type="line"/>
-      <point x="439" y="113" type="line"/>
-      <point x="335" y="654" type="line"/>
-      <point x="295" y="654" type="line"/>
-      <point x="306" y="546" type="line"/>
-      <point x="410" y="0" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="437" y="143" type="line"/>
+      <point x="342" y="649" type="line"/>
+      <point x="295" y="649" type="line"/>
+      <point x="306" y="504" type="line"/>
+      <point x="403" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:25:24 +0000</string>
+      <string>2017-11-15 01:55:54 +0000</string>
     </dict>
   </lib>
 </glyph>

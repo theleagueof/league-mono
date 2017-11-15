@@ -4,38 +4,38 @@
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="143" y="700" type="line"/>
-      <point x="94" y="700" type="line"/>
-      <point x="54" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="151" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
+      <point x="48" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="546" y="0" type="line"/>
-      <point x="506" y="700" type="line"/>
-      <point x="457" y="700" type="line"/>
-      <point x="490" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="510" y="700" type="line"/>
+      <point x="449" y="700" type="line"/>
+      <point x="480" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="334" y="276" type="line"/>
-      <point x="286" y="47" type="line"/>
-      <point x="330" y="47" type="line"/>
-      <point x="461" y="573" type="line"/>
-      <point x="483" y="700" type="line"/>
-      <point x="436" y="700" type="line"/>
+      <point x="322" y="265" type="line"/>
+      <point x="285" y="52" type="line"/>
+      <point x="337" y="52" type="line"/>
+      <point x="452" y="533" type="line"/>
+      <point x="477" y="700" type="line"/>
+      <point x="420" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="117" y="700" type="line"/>
-      <point x="139" y="574" type="line"/>
-      <point x="269" y="47" type="line"/>
-      <point x="313" y="47" type="line"/>
-      <point x="265" y="276" type="line"/>
-      <point x="164" y="700" type="line"/>
+      <point x="123" y="700" type="line"/>
+      <point x="148" y="534" type="line"/>
+      <point x="263" y="52" type="line"/>
+      <point x="314" y="52" type="line"/>
+      <point x="278" y="265" type="line"/>
+      <point x="180" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:25:24 +0000</string>
+      <string>2017-11-15 01:55:54 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -4,22 +4,28 @@
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="298" y="328" type="line"/>
-      <point x="317" y="287" type="line"/>
-      <point x="525" y="700" type="line"/>
-      <point x="490" y="700" type="line"/>
+      <point x="299" y="346" type="line"/>
+      <point x="326" y="284" type="line"/>
+      <point x="534" y="700" type="line"/>
+      <point x="477" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="75" y="700" type="line"/>
-      <point x="286" y="282" type="line"/>
-      <point x="303" y="328" type="line"/>
-      <point x="110" y="700" type="line"/>
+      <point x="66" y="700" type="line"/>
+      <point x="277" y="279" type="line"/>
+      <point x="302" y="346" type="line"/>
+      <point x="123" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="317" y="0" type="line"/>
-      <point x="317" y="335" type="line"/>
-      <point x="284" y="335" type="line"/>
-      <point x="284" y="0" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="326" y="351" type="line"/>
+      <point x="275" y="351" type="line"/>
+      <point x="275" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

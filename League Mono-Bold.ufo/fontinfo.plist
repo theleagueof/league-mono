@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>League Mono</string>
 	<key>openTypeHeadCreated</key>
-	<string>2017/02/14 16:19:55</string>
+	<string>2017/11/14 20:42:33</string>
 	<key>openTypeNameDesigner</key>
 	<string>Tyler Finck</string>
 	<key>openTypeNameDesignerURL</key>
@@ -65,7 +65,7 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="600"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="237" y="0" type="line"/>
+      <point x="237" y="700" type="line"/>
+      <point x="125" y="700" type="line"/>
+      <point x="125" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="297" type="line"/>
+      <point x="505" y="297" type="line"/>
+      <point x="505" y="391" type="line"/>
+      <point x="193" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="605" type="line"/>
+      <point x="545" y="605" type="line"/>
+      <point x="545" y="700" type="line"/>
+      <point x="193" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

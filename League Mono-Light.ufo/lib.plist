@@ -5,7 +5,7 @@
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>F5F4E4B9-6590-4B2B-A90D-E960538E934A</string>
+	<string>435EBB0E-2C97-43B4-A663-3843F54C2005</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
@@ -13,7 +13,7 @@
 	<key>com.schriftgestaltung.weight</key>
 	<string>Light</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<integer>55</integer>
+	<integer>70</integer>
 	<key>com.schriftgestaltung.widthValue</key>
 	<integer>100</integer>
 	<key>public.glyphOrder</key>
@@ -279,6 +279,8 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>three.ss01</string>
+		<string>fraction</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -333,8 +335,14 @@
 		<string>less</string>
 		<string>greaterequal</string>
 		<string>lessequal</string>
+		<string>plusminus</string>
+		<string>approxequal</string>
+		<string>asciitilde</string>
 		<string>infinity</string>
+		<string>emptyset</string>
+		<string>radical</string>
 		<string>percent</string>
+		<string>perthousand</string>
 		<string>upArrow</string>
 		<string>northEastArrow</string>
 		<string>rightArrow</string>

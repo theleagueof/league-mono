@@ -3,7 +3,13 @@
   <advance width="600"/>
   <unicode hex="2194"/>
   <outline>
-    <component base="upArrow" xOffset="548" yOffset="-13" xScale="0" yScale="0" xyScale="1" yxScale="-1"/>
-    <component base="upArrow" xOffset="55" yOffset="572" xScale="0" yScale="0" xyScale="-1" yxScale="1"/>
+    <component base="upArrow" xOffset="536" yOffset="-13" xScale="0" yScale="0" xyScale="1" yxScale="-1"/>
+    <component base="upArrow" xOffset="66" yOffset="572" xScale="0" yScale="0" xyScale="-1" yxScale="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

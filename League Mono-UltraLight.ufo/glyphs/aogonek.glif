@@ -4,12 +4,18 @@
   <unicode hex="0105"/>
   <outline>
     <contour>
-      <point x="524" y="0" type="line"/>
-      <point x="542" y="12" type="line"/>
-      <point x="533" y="21" type="line"/>
-      <point x="491" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="549" y="18" type="line"/>
+      <point x="540" y="27" type="line"/>
+      <point x="482" y="0" type="line"/>
     </contour>
     <component base="a"/>
-    <component base="ogonekcomb" xOffset="174"/>
+    <component base="ogonekcomb" xOffset="173"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

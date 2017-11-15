@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="1">
+  <advance width="600"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="59" y="500" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="351" y="105" type="line"/>
+      <point x="252" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="500" type="line"/>
+      <point x="294" y="105" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="586" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="-172" type="line"/>
+      <point x="83" y="-175"/>
+      <point x="120" y="-192"/>
+      <point x="182" y="-192" type="curve"/>
+      <point x="316" y="-192"/>
+      <point x="370" y="-118"/>
+      <point x="414" y="0" type="curve"/>
+      <point x="325" y="105" type="line"/>
+      <point x="243" y="11" type="line"/>
+      <point x="217" y="-54"/>
+      <point x="183" y="-49"/>
+      <point x="164" y="-49" type="curve"/>
+      <point x="151" y="-49"/>
+      <point x="128" y="-40"/>
+      <point x="129" y="-41" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -4,72 +4,72 @@
   <unicode hex="0025"/>
   <outline>
     <contour>
-      <point x="438" y="700" type="line"/>
-      <point x="45" y="0" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="561" y="700" type="line"/>
+      <point x="432" y="700" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="564" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="226" y="425"/>
+      <point x="225" y="424"/>
       <point x="283" y="460"/>
       <point x="283" y="557" type="curve" smooth="yes"/>
       <point x="283" y="653"/>
-      <point x="226" y="688"/>
-      <point x="161" y="688" type="curve" smooth="yes"/>
-      <point x="95" y="688"/>
-      <point x="38" y="653"/>
-      <point x="38" y="557" type="curve" smooth="yes"/>
-      <point x="38" y="460"/>
-      <point x="95" y="425"/>
-      <point x="161" y="425" type="curve" smooth="yes"/>
+      <point x="225" y="689"/>
+      <point x="159" y="689" type="curve" smooth="yes"/>
+      <point x="92" y="689"/>
+      <point x="34" y="653"/>
+      <point x="34" y="557" type="curve" smooth="yes"/>
+      <point x="34" y="460"/>
+      <point x="92" y="424"/>
+      <point x="159" y="424" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="141" y="499"/>
-      <point x="123" y="513"/>
+      <point x="140" y="502"/>
+      <point x="123" y="516"/>
       <point x="123" y="557" type="curve" smooth="yes"/>
-      <point x="123" y="600"/>
-      <point x="141" y="614"/>
-      <point x="161" y="614" type="curve" smooth="yes"/>
-      <point x="180" y="614"/>
-      <point x="198" y="600"/>
-      <point x="198" y="557" type="curve" smooth="yes"/>
-      <point x="198" y="513"/>
-      <point x="180" y="499"/>
-      <point x="161" y="499" type="curve" smooth="yes"/>
+      <point x="123" y="597"/>
+      <point x="140" y="611"/>
+      <point x="159" y="611" type="curve" smooth="yes"/>
+      <point x="177" y="611"/>
+      <point x="194" y="597"/>
+      <point x="194" y="557" type="curve" smooth="yes"/>
+      <point x="194" y="516"/>
+      <point x="177" y="502"/>
+      <point x="159" y="502" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="517" y="5"/>
-      <point x="574" y="40"/>
-      <point x="574" y="137" type="curve" smooth="yes"/>
-      <point x="574" y="233"/>
-      <point x="517" y="268"/>
-      <point x="451" y="268" type="curve" smooth="yes"/>
-      <point x="386" y="268"/>
+      <point x="520" y="4"/>
+      <point x="578" y="40"/>
+      <point x="578" y="137" type="curve" smooth="yes"/>
+      <point x="578" y="233"/>
+      <point x="520" y="269"/>
+      <point x="453" y="269" type="curve" smooth="yes"/>
+      <point x="387" y="269"/>
       <point x="329" y="233"/>
       <point x="329" y="137" type="curve" smooth="yes"/>
       <point x="329" y="40"/>
-      <point x="386" y="5"/>
-      <point x="451" y="5" type="curve" smooth="yes"/>
+      <point x="387" y="4"/>
+      <point x="453" y="4" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="432" y="79"/>
-      <point x="414" y="93"/>
-      <point x="414" y="137" type="curve" smooth="yes"/>
-      <point x="414" y="180"/>
-      <point x="432" y="194"/>
-      <point x="451" y="194" type="curve" smooth="yes"/>
-      <point x="471" y="194"/>
-      <point x="489" y="180"/>
+      <point x="435" y="82"/>
+      <point x="418" y="96"/>
+      <point x="418" y="137" type="curve" smooth="yes"/>
+      <point x="418" y="177"/>
+      <point x="435" y="191"/>
+      <point x="453" y="191" type="curve" smooth="yes"/>
+      <point x="472" y="191"/>
+      <point x="489" y="177"/>
       <point x="489" y="137" type="curve" smooth="yes"/>
-      <point x="489" y="93"/>
-      <point x="471" y="79"/>
-      <point x="451" y="79" type="curve" smooth="yes"/>
+      <point x="489" y="96"/>
+      <point x="472" y="82"/>
+      <point x="453" y="82" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:25:25 +0000</string>
+      <string>2017-11-15 01:55:56 +0000</string>
     </dict>
   </lib>
 </glyph>

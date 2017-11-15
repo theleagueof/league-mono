@@ -4,33 +4,39 @@
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="102" y="500" type="line"/>
-      <point x="282" y="0" type="line"/>
-      <point x="303" y="43" type="line"/>
-      <point x="142" y="500" type="line"/>
+      <point x="123" y="500" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="338" y="40" type="line"/>
+      <point x="183" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="443" y="500" type="line"/>
-      <point x="292" y="41" type="line"/>
-      <point x="311" y="0" type="line"/>
-      <point x="483" y="500" type="line"/>
+      <point x="462" y="500" type="line"/>
+      <point x="314" y="39" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="522" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="-189" type="line"/>
-      <point x="105" y="-190"/>
-      <point x="119" y="-192"/>
-      <point x="132" y="-192" type="curve"/>
-      <point x="203" y="-192"/>
-      <point x="267" y="-118"/>
-      <point x="311" y="0" type="curve"/>
-      <point x="293" y="43" type="line"/>
-      <point x="283" y="19" type="line"/>
-      <point x="248" y="-83"/>
-      <point x="196" y="-159"/>
-      <point x="131" y="-159" type="curve"/>
-      <point x="119" y="-159"/>
-      <point x="109" y="-157"/>
-      <point x="109" y="-157" type="curve"/>
+      <point x="123" y="-187" type="line"/>
+      <point x="128" y="-189"/>
+      <point x="147" y="-192"/>
+      <point x="164" y="-192" type="curve"/>
+      <point x="241" y="-192"/>
+      <point x="306" y="-118"/>
+      <point x="350" y="0" type="curve"/>
+      <point x="324" y="40" type="line"/>
+      <point x="305" y="17" type="line"/>
+      <point x="269" y="-81"/>
+      <point x="225" y="-144"/>
+      <point x="161" y="-144" type="curve"/>
+      <point x="149" y="-144"/>
+      <point x="139" y="-142"/>
+      <point x="138" y="-141" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-15 01:55:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

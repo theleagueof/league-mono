@@ -4,39 +4,39 @@
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="59" y="500" type="line"/>
-      <point x="241" y="0" type="line"/>
-      <point x="321" y="56" type="line"/>
-      <point x="192" y="500" type="line"/>
+      <point x="83" y="500" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="351" y="66" type="line"/>
+      <point x="228" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="393" y="500" type="line"/>
-      <point x="264" y="56" type="line"/>
-      <point x="354" y="0" type="line"/>
-      <point x="526" y="500" type="line"/>
+      <point x="417" y="500" type="line"/>
+      <point x="294" y="66" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="562" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="67" y="-179" type="line"/>
-      <point x="74" y="-182"/>
-      <point x="106" y="-192"/>
-      <point x="142" y="-192" type="curve"/>
-      <point x="247" y="-192"/>
-      <point x="310" y="-118"/>
-      <point x="354" y="0" type="curve"/>
-      <point x="295" y="56" type="line"/>
-      <point x="243" y="11" type="line"/>
-      <point x="208" y="-68"/>
-      <point x="181" y="-90"/>
-      <point x="132" y="-90" type="curve"/>
-      <point x="119" y="-90"/>
-      <point x="105" y="-86"/>
-      <point x="104" y="-85" type="curve"/>
+      <point x="93" y="-178" type="line"/>
+      <point x="100" y="-181"/>
+      <point x="133" y="-192"/>
+      <point x="174" y="-192" type="curve"/>
+      <point x="284" y="-192"/>
+      <point x="346" y="-118"/>
+      <point x="390" y="0" type="curve"/>
+      <point x="325" y="66" type="line"/>
+      <point x="267" y="11" type="line"/>
+      <point x="234" y="-65"/>
+      <point x="205" y="-82"/>
+      <point x="162" y="-82" type="curve"/>
+      <point x="149" y="-82"/>
+      <point x="134" y="-77"/>
+      <point x="133" y="-76" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:25:25 +0000</string>
+      <string>2017-11-15 01:55:56 +0000</string>
     </dict>
   </lib>
 </glyph>

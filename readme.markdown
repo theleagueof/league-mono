@@ -13,5 +13,5 @@ League Mono was created for The League of Moveable Type using Glyphs app, with m
 ![League Mono Family Pangram](https://raw.githubusercontent.com/sursly/leaguemono/master/leaguemono-family-pangram.png)
 ![League Mono Details](https://raw.githubusercontent.com/sursly/leaguemono/master/leaguemono-details.png)
 
-It is still being refined as of the update: November 14, 2017
+It is still being refined as of the update: December 08, 2017
 

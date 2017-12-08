@@ -4,38 +4,28 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="359" y="199" type="line"/>
-      <point x="359" y="680" type="line"/>
-      <point x="181" y="680" type="line"/>
-      <point x="181" y="122" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="680" type="line"/>
+      <point x="209" y="680" type="line"/>
+      <point x="209" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="443" y="-11"/>
-      <point x="508" y="-1"/>
-      <point x="516" y="0" type="curve"/>
-      <point x="516" y="142" type="line"/>
-      <point x="513" y="140"/>
-      <point x="446" y="123"/>
-      <point x="403" y="123" type="curve"/>
-      <point x="379" y="123"/>
-      <point x="359" y="136"/>
-      <point x="359" y="199" type="curve"/>
-      <point x="181" y="122" type="line"/>
-      <point x="181" y="5"/>
-      <point x="273" y="-11"/>
-      <point x="376" y="-11" type="curve"/>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="139" type="line"/>
+      <point x="312" y="139" type="line"/>
+      <point x="312" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="524" y="361" type="line"/>
-      <point x="524" y="500" type="line"/>
-      <point x="41" y="500" type="line"/>
-      <point x="41" y="361" type="line"/>
+      <point x="536" y="361" type="line"/>
+      <point x="536" y="500" type="line"/>
+      <point x="93" y="500" type="line"/>
+      <point x="93" y="361" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-15 01:55:57 +0000</string>
+      <string>2017-12-08 14:53:00 +0000</string>
     </dict>
   </lib>
 </glyph>

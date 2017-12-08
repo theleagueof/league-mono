@@ -67,10 +67,10 @@
       <point x="315" y="215" type="line"/>
     </contour>
     <contour>
-      <point x="511" y="148" type="line"/>
+      <point x="511" y="129" type="line"/>
       <point x="511" y="300" type="line"/>
       <point x="380" y="294" type="line"/>
-      <point x="380" y="122" type="line"/>
+      <point x="380" y="118" type="line"/>
     </contour>
     <contour>
       <point x="511" y="209" type="line"/>
@@ -82,7 +82,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-15 01:55:56 +0000</string>
+      <string>2017-12-08 14:52:59 +0000</string>
     </dict>
   </lib>
 </glyph>

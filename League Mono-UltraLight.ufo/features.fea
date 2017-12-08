@@ -64,6 +64,7 @@ sub i by i.ss01;
 sub l by l.ss01;
 sub t by t.ss01;
 sub x by x.ss01;
+sub three by three.ss01;
 } salt;
 
 feature ss01 {
@@ -77,5 +78,6 @@ sub i by i.ss01;
 sub l by l.ss01;
 sub t by t.ss01;
 sub x by x.ss01;
+sub three by three.ss01;
 } ss01;
 

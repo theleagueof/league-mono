@@ -9,12 +9,12 @@
       <point x="429" y="548" type="line"/>
       <point x="144" y="263" type="line"/>
     </contour>
-    <component base="l"/>
+    <component base="l.ss01"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-15 01:55:56 +0000</string>
+      <string>2017-12-08 14:52:59 +0000</string>
     </dict>
   </lib>
 </glyph>

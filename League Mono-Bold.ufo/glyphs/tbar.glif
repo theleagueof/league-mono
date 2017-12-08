@@ -3,7 +3,7 @@
   <advance width="600"/>
   <unicode hex="0167"/>
   <outline>
-    <component base="t"/>
+    <component base="t.ss01"/>
     <component base="strokeshortcomb" xOffset="-74" yOffset="-70" xScale="1.299"/>
   </outline>
 </glyph>

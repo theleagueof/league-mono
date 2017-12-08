@@ -125,7 +125,7 @@
 	<key>@MMK_L_l</key>
 	<array>
 		<string>d</string>
-		<string>l</string>
+		<string>l.ss01</string>
 	</array>
 	<key>@MMK_L_leftArrow</key>
 	<array>
@@ -186,7 +186,7 @@
 	</array>
 	<key>@MMK_L_t</key>
 	<array>
-		<string>t</string>
+		<string>t.ss01</string>
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
@@ -303,7 +303,7 @@
 		<string>b</string>
 		<string>h</string>
 		<string>k</string>
-		<string>l</string>
+		<string>l.ss01</string>
 	</array>
 	<key>@MMK_R_i</key>
 	<array>
@@ -369,7 +369,7 @@
 	</array>
 	<key>@MMK_R_t</key>
 	<array>
-		<string>t</string>
+		<string>t.ss01</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>

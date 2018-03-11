@@ -1,6 +1,6 @@
 ![League Mono](https://raw.githubusercontent.com/sursly/leaguemono/master/imgs/leaguemono-sample.png)
 
-# League Mono
+League Mono
 =============
 _by [Tyler Finck](https://www.tylerfinck.com)_
 

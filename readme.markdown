@@ -16,10 +16,10 @@ May 25 2018 update: League Mono has been made a variable font:
 Use the one TTF file called `LeagueMonoVariable.ttf` for 24 predefined styles of League Mono. Then tweak the weight or width (from condensed – 50 – to extended – 200 - with various weights – 30 through 200).
 
 ![League Mono Variable Slider](https://raw.githubusercontent.com/sursly/leaguemono/master/lm-sliders-fincksite.gif)
-[play with it at tylerfinck.com/lm-variable](http://tylerfinck.com/lm-variable)
+Play with it at [tylerfinck.com/lm-variable](http://tylerfinck.com/lm-variable)
 
 
-Or you can use the OTF / TTF styles for individual weights/widths if you don’t want to deal with the Variable version just yet. 
+Or you can use the OTF / TTF styles (above) for individual weights/widths if you don’t want to deal with the Variable version just yet. 
 - Your options:
 - Condensed Thin
 - Condensed UltraLight

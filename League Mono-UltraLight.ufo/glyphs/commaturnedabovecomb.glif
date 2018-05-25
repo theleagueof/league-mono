@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="commaturnedabovecomb" format="1">
-  <advance width="600"/>
-  <unicode hex="0312"/>
-  <outline>
-    <component base="comma" xOffset="513" yOffset="737" xScale="-0.878" yScale="-0.878"/>
-  </outline>
-</glyph>

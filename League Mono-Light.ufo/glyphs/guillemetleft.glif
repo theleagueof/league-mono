@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guillemetleft" format="1">
-  <advance width="600"/>
-  <unicode hex="00AB"/>
-  <outline>
-    <component base="guilsinglleft" xOffset="-110"/>
-    <component base="guilsinglleft" xOffset="130"/>
-  </outline>
-</glyph>

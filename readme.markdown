@@ -4,13 +4,12 @@
 =============
 _by [Tyler Finck](http://www.tylerfinck.com)_
 
-**Eight weights of monospace fun. Or variable font fun, whatever.** 
+**Monospace/variable font fun.** 
 
 League Mono is a mashup of sorts, inspired by some beautiful forms found in both Fira Mono, Libertinus Mono, and Courier(?!). 
 
-League Mono was created for The League of Moveable Type using Glyphs app, with masters for the Thin, Regular, and Bold weights, and interpolated instances for the UltraLight, Light, Medium, SemiBold, and ExtraBold weights. 
 
-May 25 2018 update: League Mono has been made a variable font:
+May 2018 update: League Mono has been made a variable font:
 ![League Mono Variable A and B](https://raw.githubusercontent.com/sursly/leaguemono/master/imgs/variable-A-B.png)
 
 Use the one TTF file called `LeagueMonoVariable.ttf` for 24 predefined styles of League Mono. Then tweak the weight or width (from condensed – 50 – to extended – 200 - with various weights – 30 through 200).
@@ -51,5 +50,5 @@ Or you can use the OTF / TTF styles (above) for individual weights/widths if you
 
 Personal note: Support for variable fonts is still being implemented across different apps/browsers. In my brief experience here, you don’t need to install the variable font AND individual styles. It’s one or the other. If you’re using variable fonts on the web I find `text-rendering: geometricPrecision;` to help with readability. 
 
-It is still being refined as of the update: May 25, 2018 (variable TTF beta)
+It is still being refined as of the latest big update: May 31, 2018.
 

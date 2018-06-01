@@ -12,7 +12,7 @@ League Mono is a mashup of sorts, inspired by some beautiful forms found in both
 May 2018 update: League Mono has been made a variable font:
 ![League Mono Variable A and B](https://raw.githubusercontent.com/sursly/leaguemono/master/imgs/variable-A-B.png)
 
-Use the one TTF file called `LeagueMonoVariable.ttf` for 24 predefined styles of League Mono. Then tweak the weight or width (from condensed – 50 – to extended – 200 - with various weights – 30 through 200).
+Use the one TTF file called `LeagueMonoVariable.ttf` for 40 predefined styles of League Mono. Then tweak the weight or width (from condensed – 50 – to extended – 200 - with various weights – 30 through 200).
 
 ![League Mono Variable Slider](https://raw.githubusercontent.com/sursly/leaguemono/master/imgs/lm-sliders-fincksite.gif)
 Play with it at [tylerfinck.com/lm-variable](http://tylerfinck.com/leaguemonovariable/)
@@ -28,6 +28,14 @@ Or you can use the OTF / TTF styles (above) for individual weights/widths if you
 - Condensed SemiBold
 - Condensed Bold
 - Condensed ExtraBold
+- Narrow Thin
+- Narrow UltraLight
+- Narrow Light
+- Narrow Regular
+- Narrow Medium
+- Narrow SemiBold
+- Narrow Bold
+- Narrow ExtraBold
 - Thin
 - UltraLight
 - Light
@@ -36,6 +44,14 @@ Or you can use the OTF / TTF styles (above) for individual weights/widths if you
 - SemiBold
 - Bold
 - ExtraBold
+- Wide Thin
+- Wide UltraLight
+- Wide Light
+- Wide Regular
+- Wide Medium
+- Wide SemiBold
+- Wide Bold
+- Wide ExtraBold
 - Extended Thin
 - Extended UltraLight
 - Extended Light
@@ -50,5 +66,5 @@ Or you can use the OTF / TTF styles (above) for individual weights/widths if you
 
 Personal note: Support for variable fonts is still being implemented across different apps/browsers. In my brief experience here, you don’t need to install the variable font AND individual styles. It’s one or the other. If you’re using variable fonts on the web I find `text-rendering: geometricPrecision;` to help with readability. 
 
-It is still being refined as of the latest big update: May 31, 2018.
+It is still being refined as of the latest big update: June 01, 2018.
 

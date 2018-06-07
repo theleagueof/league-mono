@@ -20,51 +20,51 @@ Play with it at [tylerfinck.com/lm-variable](http://tylerfinck.com/leaguemonovar
 
 Or you can use the OTF / TTF styles (above) for individual weights/widths if you don’t want to deal with the Variable version just yet. 
 - Your options:
-- Condensed Thin
-- Condensed UltraLight
-- Condensed Light
-- Condensed Regular
-- Condensed Medium
-- Condensed SemiBold
-- Condensed Bold
-- Condensed ExtraBold
-- Narrow Thin
-- Narrow UltraLight
-- Narrow Light
-- Narrow Regular
-- Narrow Medium
-- Narrow SemiBold
-- Narrow Bold
-- Narrow ExtraBold
-- Thin
-- UltraLight
-- Light
-- Regular
-- Medium
-- SemiBold
-- Bold
-- ExtraBold
-- Wide Thin
-- Wide UltraLight
-- Wide Light
-- Wide Regular
-- Wide Medium
-- Wide SemiBold
-- Wide Bold
-- Wide ExtraBold
-- Extended Thin
-- Extended UltraLight
-- Extended Light
-- Extended Regular
-- Extended Medium
-- Extended SemiBold
-- Extended Bold
-- Extended ExtraBold
+- Thin Condensed
+- UltraLight Condensed
+- Light Condensed
+- Regular Condensed
+- Medium Condensed
+- SemiBold Condensed
+- Bold Condensed
+- ExtraBold Condensed
+- Thin Narrow
+- UltraLight Narrow
+- Light Narrow
+- Regular Narrow
+- Medium Narrow
+- SemiBold Narrow
+- Bold Narrow
+- ExtraBold Narrow
+- Thin Normal
+- UltraLight Normal
+- Light Normal
+- Regular Normal
+- Medium Normal
+- SemiBold Normal
+- Bold Normal
+- ExtraBold Normal
+- Thin Wide
+- UltraLight Wide
+- Light Wide
+- Regular Wide
+- Medium Wide
+- SemiBold Wide
+- Bold Wide
+- ExtraBold Wide
+- Thin Extended
+- UltraLight Extended
+- Light Extended
+- Regular Extended
+- Medium Extended
+- SemiBold Extended
+- Bold Extended
+- ExtraBold Extended
 
 ![League Mono Variable Animation](https://raw.githubusercontent.com/sursly/leaguemono/master/imgs/lm-animated.gif)
 
 
 Personal note: Support for variable fonts is still being implemented across different apps/browsers. In my brief experience here, you don’t need to install the variable font AND individual styles. It’s one or the other. If you’re using variable fonts on the web I find `text-rendering: geometricPrecision;` to help with readability. 
 
-It is still being refined as of the latest big update: June 01, 2018.
+It is still being refined as of the latest big update: June 07, 2018.
 

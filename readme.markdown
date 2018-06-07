@@ -18,8 +18,11 @@ Use the one TTF file called `LeagueMonoVariable.ttf` for 40 predefined styles of
 Play with it at [tylerfinck.com/lm-variable](http://tylerfinck.com/leaguemonovariable/)
 
 
-Or you can use the OTF / TTF styles (above) for individual weights/widths if you don’t want to deal with the Variable version just yet. 
-- Your options:
+Or you can use the OTF / TTF styles (above) for individual weights/widths if you don’t want to deal with the Variable version just yet. I made a cheat sheet:
+
+![League Mono Variable Cheat Sheet](leaguemonovariable-type2-sample.png)
+
+Your options:
 - Thin Condensed
 - UltraLight Condensed
 - Light Condensed

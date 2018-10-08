@@ -1,11 +1,11 @@
 {
-.appVersion = "1147";
+.appVersion = "1163";
 DisplayStrings = (
 "THE QUICK BROWN FOX JUMPS\012OVER THE LAZY DOG\012\012he quick brown fox jumps\012over the lazy dog\0120123456789\012\012\012AMAZINGLY FEW DISCOTHEQUES \012PROVIDE JUKEBOXES\012\012\012P/Rcaron ÍLI/Scaron  /Zcaron LU/Tcaron OU/Ccaron KÝ K/Uring/Ncaron  ÚP/Ecaron L /Dcaron ÁBELSKÉ ÓDY.\012\012Hyvän orun sngen pieneksi hyödyksi jäi suomen kirjime.\012\012Ç me fi peur de fêer noë à, sur cee i/idotless îe bizrroïde où une mère e s môme essien de me uer vec un gâeu à  cigüe brûé. \012\012QUEDA GAZPACHO, FIBRA, LÁTEX, JAMÓN, KIWI Y VIÑAS. \012\012/Scedilla i/scedilla i/quoteright de büyük çöp y/idotless/gbreve/idotless nr/idotless ! \012\012YXSKAFTBUD, GE VÅR WC-ZONMÖ IQ-HJÄLP. \012\012Qued gzpcho, fibr, áex, jmón, kiwi y viñs.\012\012Hi/scaron nic/ccaron in brec vzgj po/zcaron e pod fikusom.  \012\012HI/Scaron NI/Ccaron IN BRATEC VZGAJA POL/Zcaron E POD FIKUSOM. ",
 "abcdefghijklmnopqrstuvwxyz\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\0120123456789\012!@#$%^&*()&",
 "JUKEBOXES\012TATAnone\012mourbhno\012experiment\012hnm\012AMAZINGLY\012Tt\012Ww",
 abcdefghijkl,
-"2",
+"021",
 1HEa,
 "LEAGUE MONO\012league mono"
 );
@@ -52,7 +52,7 @@ date = "2018-06-07 12:47:50 +0000";
 designer = "Tyler Finck";
 designerURL = "http://www.finck.co";
 disablesNiceNames = 1;
-familyName = "League Mono";
+familyName = "League Mono Variable";
 featurePrefixes = (
 {
 automatic = 1;

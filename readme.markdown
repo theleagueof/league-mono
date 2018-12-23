@@ -20,7 +20,7 @@ Play with it at [tylerfinck.com/lm-variable](http://tylerfinck.com/leaguemonovar
 
 Or you can use the OTF / TTF styles (above) for individual weights/widths if you don’t want to deal with the Variable version just yet. I made a cheat sheet:
 
-![League Mono Variable Cheat Sheet](leaguemonovariable-type2-sample.png)
+![League Mono Variable Cheat Sheet](https://raw.githubusercontent.com/sursly/leaguemono/master/imgs/leaguemonovariable-type2-sample.png)
 
 Your options:
 - Thin Condensed

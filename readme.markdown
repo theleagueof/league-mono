@@ -2,7 +2,7 @@
 
 # League Mono
 =============
-_by [Tyler Finck](http://www.tylerfinck.com)_
+_by [Tyler Finck](https://www.tylerfinck.com)_
 
 **Monospace/variable font fun.** 
 
@@ -15,7 +15,7 @@ May 2018 update: League Mono has been made a variable font:
 Use the one TTF file called `LeagueMonoVariable.ttf` for 40 predefined styles of League Mono. Then tweak the weight or width (from condensed – 50 – to extended – 200 - with various weights – 30 through 200).
 
 ![League Mono Variable Slider](https://raw.githubusercontent.com/sursly/leaguemono/master/imgs/lm-sliders-fincksite.gif)
-Play with it at [tylerfinck.com/lm-variable](http://tylerfinck.com/leaguemonovariable/)
+Play with it at [tylerfinck.com/leaguemonovariable](https://tylerfinck.com/leaguemonovariable/)
 
 
 Or you can use the OTF / TTF styles (above) for individual weights/widths if you don’t want to deal with the Variable version just yet. I made a cheat sheet:
@@ -39,14 +39,14 @@ Your options:
 - SemiBold Narrow
 - Bold Narrow
 - ExtraBold Narrow
-- Thin Normal
-- UltraLight Normal
-- Light Normal
-- Regular Normal
-- Medium Normal
-- SemiBold Normal
-- Bold Normal
-- ExtraBold Normal
+- Thin
+- UltraLight
+- Light
+- Regular
+- Medium
+- SemiBold
+- Bold
+- ExtraBold
 - Thin Wide
 - UltraLight Wide
 - Light Wide
@@ -67,7 +67,7 @@ Your options:
 ![League Mono Variable Animation](https://raw.githubusercontent.com/sursly/leaguemono/master/imgs/lm-animated.gif)
 
 
-Personal note: Support for variable fonts is still being implemented across different apps/browsers. In my brief experience here, you don’t need to install the variable font AND individual styles. It’s one or the other. If you’re using variable fonts on the web I find `text-rendering: geometricPrecision;` to help with readability. 
+Personal note: Support for variable fonts is still being implemented across different apps/browsers. 
 
-It is still being refined as of the latest big update: June 07, 2018.
+It is still being refined as of the latest big update: July 14, 2019.
 

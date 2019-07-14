@@ -1,4 +1,4 @@
-	Copyright (c) April 10, 2017, Tyler Finck hi@tylerfinck.com, with Reserved Font Name: “League Mono“.
+	Copyright (c) April 10, 2017, Tyler Finck - https://www.tylerfinck.com
 
 	This Font Software is licensed under the SIL Open Font License, Version 1.1.
 	This license is copied below, and is also available with a FAQ at:

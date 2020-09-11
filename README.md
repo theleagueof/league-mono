@@ -74,3 +74,9 @@ Afrikaans, Albanian, Azerbaijani, Basque, Bosnian, Catalan, Croatian, Czech, Dan
 Personal note: Support for variable fonts is still being implemented across different apps/browsers.
 
 It is still being refined as of the latest big update: April 30, 2020.
+
+License
+-------
+
+This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL.md).
+To understand what the OFL means to your use of these fonts, see the [detailed FAQ online](https://scripts.sil.org/OFL-FAQ_web).

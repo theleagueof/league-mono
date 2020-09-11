@@ -2,15 +2,12 @@
 
 set -e
 
-
-cd sources
-
 echo "Generating Static fonts"
 mkdir -p ../fonts/static/ttf
-fontmake --keep-overlaps -g leaguemono.glyphs -i -o ttf --output-dir ../fonts/static/ttf/
+fontmake --keep-overlaps -g LeagueMono.glyphs -i -o ttf --output-dir ../fonts/static/ttf/
 
 mkdir -p ../fonts/static/otf
-fontmake --keep-overlaps -g leaguemono.glyphs -i -o otf --output-dir ../fonts/static/otf/
+fontmake --keep-overlaps -g LeagueMono.glyphs -i -o otf --output-dir ../fonts/static/otf/
 
 
 
@@ -85,7 +82,7 @@ cd sources
 
 echo "Generating VFs"
 mkdir -p ../fonts/variable
-fontmake --keep-overlaps -g leaguemono.glyphs -o variable --output-path ../fonts/variable/LeagueMonoVariable.ttf
+fontmake --keep-overlaps -g LeagueMono.glyphs -o variable --output-path ../fonts/variable/LeagueMonoVariable.ttf
 
 rm -rf master_ufo/ instance_ufo/
 

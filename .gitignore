@@ -1,1 +1,12 @@
+.fontship
+*.otf
+*.ttf
+*.woff
+*.woff2
+LeagueMono-*
+!*/LeagueMono-*
 .DS_Store
+sources/*(Autosaved).glyphs
+sources/*_backups
+sources/*.sfd
+sources/*.ufo

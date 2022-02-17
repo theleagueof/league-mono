@@ -79,7 +79,7 @@ Afrikaans, Albanian, Azerbaijani, Basque, Bosnian, Catalan, Croatian, Czech, Dan
 
 Personal note: Support for variable fonts is still being implemented across different apps/browsers.
 
-It is still being refined as of the latest update: Feb 14, 2022.
+It is still [being refined](https://github.com/theleagueof/league-mono/commits) as of [the latest release](https://github.com/theleagueof/league-mono/releases/latest).
 
 License
 -------
